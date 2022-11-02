@@ -1,5 +1,5 @@
-<h1 align="center">Yo 👋, I'm Marwan</h1>
-<h3 align="center">I'm a Belgian🍟 frontend web developer</h3>
+<h1 align="center">Yo 👋, I'm Neykins</h1>
+<h3 align="center">I'm a Belgian🍟 developer</h3>
 
 - - (2021-2023) Student 👨‍💻 [EFP](https://www.efp.be/)
 
