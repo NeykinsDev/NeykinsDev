@@ -2,6 +2,7 @@
 Belgian Junior Software Developer | Nvim ❤️
 
 ** More about me **
+```
 const Marwan = {
   frontend: {
     languages: ['JavaScript', 'TypeScript'],
@@ -13,3 +14,4 @@ const Marwan = {
     design: ['Figma', 'Adobe XD'],
     projectManagement: ['Jira', 'Confluence'],
   };
+```
