@@ -1,8 +1,10 @@
-## Hey, I'm Marwan
-Belgian Junior Software Developer | Nvim ❤️
+### Hey, I'm Marwan
+*Belgian Junior Software Developer | Nvim ❤️*
 
-** More about me **
-```
+---
+
+## More about me
+```javascript
 const Marwan = {
   frontend: {
     languages: ['JavaScript', 'TypeScript'],
