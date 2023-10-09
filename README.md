@@ -7,10 +7,10 @@
 ```javascript
 const Marwan = {
   frontend: {
-    languages: ['Java', 'JavaScript', 'TypeScript'],
+    languages: ['JavaScript', 'TypeScript'],
     frameworks: ['ReactJS', 'Angular'],
   },
-  backend: ['NodeJS', 'PHP'],
+  backend: ['Java', 'NodeJS', 'PHP'],
     database: ['MySQL', 'Firebase'],
     versionControl: ['Git'],
     design: ['Figma', 'Adobe XD'],
