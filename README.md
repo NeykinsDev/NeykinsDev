@@ -7,7 +7,7 @@
 ```javascript
 const Marwan = {
   frontend: {
-    languages: ['JavaScript', 'TypeScript'],
+    languages: ['Java', 'JavaScript', 'TypeScript'],
     frameworks: ['ReactJS', 'Angular'],
   },
   backend: ['NodeJS', 'PHP'],
